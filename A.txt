@@ -4,3 +4,5 @@ I am adding new line
 test 2nd commit
 
 checking createbranch.
+
+want to revert the commit.
